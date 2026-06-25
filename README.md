@@ -365,4 +365,4 @@ Aspiring Data Scientist | Machine Learning Engineer
 
 **GitHub:** https://github.com/Farsan-k
 
-**LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile/
+**LinkedIn:** https://www.linkedin.com/in/farsank/
